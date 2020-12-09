@@ -6,4 +6,4 @@ This application is an online auction system for the CoinDrive File Storage and 
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the CoinDriveAdMarket application.
+Click [here](https://tedmcm.github.io/CoinDriveAdMarket/) to launch the CoinDriveAdMarket application.
